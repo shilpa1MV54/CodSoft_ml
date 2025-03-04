@@ -6,7 +6,7 @@ Internship Overview
 Duration:1 Month [Feb 5 - March 5]  
 Intern: Shilpa Kumari  
 Contact: 
-LinkedIn:** Shilpa Kumari  
+LinkedIn: Shilpa Kumari  
 Email: shil72501@gmail.com  
 
 Projects  
@@ -27,6 +27,4 @@ My primary goal has been to strengthen my problem-solving skills, deepen my unde
 
 Feel free to explore my projects, share feedback, or connect with me if you have a keen interest in machine learning and data science. Thanks for being a part of this journey!  
 
----
 
-Let me know if you need any further edits! 🚀
